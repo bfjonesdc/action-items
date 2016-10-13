@@ -1,0 +1,11 @@
+{
+  "name": "actionitems",
+  "version": "1.0.0",
+  "description": "to do app for the snake station",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "B. Jones",
+  "license": "ISC"
+}
